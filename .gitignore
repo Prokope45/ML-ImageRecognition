@@ -1,0 +1,8 @@
+.jpg
+.jpeg
+.idea/
+.ipynb_checkpoints/
+venv/
+/test/
+/train/
+dataset_dogs_vs_cats/
