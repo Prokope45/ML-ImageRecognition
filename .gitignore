@@ -6,3 +6,4 @@ venv/
 /test/
 /train/
 dataset_dogs_vs_cats/
+finalize_dogs_vs_cats/
